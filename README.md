@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakshiagrawl
+- 👋 Hi, I’m Sakshi Agrawal
 - 👀 I’m interested in fashion, Data Analytics and AI, Digital Marketing, Creative and Content Writing
 - 🌱 I’m currently learning to build dashboards in Power Bi and Tableau
 - 💞️ I’m looking to collaborate on 
